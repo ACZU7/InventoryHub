@@ -1,4 +1,4 @@
-# InventoryHub
+#InventoryHub
 
 InventoryHub is a full-stack inventory management application built with a Blazor front-end and a Minimal API back-end. The application retrieves product data from the API and displays product details including name, price, stock, and category.
 
