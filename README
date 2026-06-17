@@ -1,0 +1,7 @@
+# InventoryHub
+
+InventoryHub is a full-stack inventory management application built with a Blazor front-end and a Minimal API back-end. The application retrieves product data from the API and displays product details including name, price, stock, and category.
+
+This project demonstrates front-end and back-end integration, API debugging, CORS configuration, structured JSON responses, error handling, and performance optimization using memory caching.
+
+Microsoft Copilot was used to help generate the integration code, debug API route and CORS issues, structure nested JSON responses, improve error handling, and suggest performance optimizations.
