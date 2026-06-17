@@ -34,7 +34,7 @@ else
         try
         {
             // Copilot helped update the correct route and add error handling.
-            var response = await HttpClient.GetAsync("http://localhost:5000/api/productlist");
+            var response = await HttpClient.GetAsync("http://localhost:5204/api/productlist");
 
             response.EnsureSuccessStatusCode();
 

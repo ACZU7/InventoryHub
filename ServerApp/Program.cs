@@ -1,3 +1,5 @@
+using Microsoft.Extensions.Caching.Memory;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors();
